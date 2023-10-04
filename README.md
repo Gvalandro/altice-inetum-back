@@ -1,6 +1,7 @@
 # AlticeBackEnd
 
 This project uses Quarkus.
+
 All steps should be done inside the project folder.
 
 ## Running the application in dev mode
